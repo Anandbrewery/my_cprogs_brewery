@@ -1,2 +1,2 @@
-# restaurant_without_functions_in_c
+# MY cprogs brewery 
 My first repository✌🏻
